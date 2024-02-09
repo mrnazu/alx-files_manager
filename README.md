@@ -6,7 +6,7 @@ A back-end project utilizing technologies such as `JavaScript`, `ES6`, `NoSQL`, 
 
 - **By:** Guillaume, CTO at Holberton School
 - **Weight:** 1
-- **Team Members:** Samuel Amsalu and Tebogo Legoabe
+- **Team Members:** [Samuel Amsalu](x.com/mrnazu_) and [Tebogo Legoabe](#)
 - **Start Date:** Feb 7, 2024 at 7:00 PM
 - **End Date:** Feb 14, 2024 at 7:00 PM
 - **Checker Release:** Feb 9, 2024 at 1:00 PM
@@ -28,11 +28,16 @@ This project is a summary of this back-end trimester focusing on authentication,
 
 Read or watch:
 
-- [Node JS getting started](#)
-- [Process API doc](#)
-- [Express getting started](#)
-- [Mocha documentation](#)
-- [Nodemon documentation](#)
+- [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
+- [Express getting started](https://expressjs.com/en/starter/installing.html)
+- [Mocha documentation](https://mochajs.org/)
+- [Nodemon documentation](https://github.com/remy/nodemon#nodemon)
+- [MongoDB](https://github.com/mongodb/node-mongodb-native)
+- [Bull](https://github.com/OptimalBits/bull)
+- [Image thumbnail](https://www.npmjs.com/package/image-thumbnail)
+- [Mime-Types](https://www.npmjs.com/package/mime-types)
+- [Redis](https://github.com/redis/node-redis)
 
 ### Learning Objectives
 
