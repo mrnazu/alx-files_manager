@@ -6,7 +6,7 @@ A back-end project utilizing technologies such as `JavaScript`, `ES6`, `NoSQL`, 
 
 - **By:** Guillaume, CTO at Holberton School
 - **Weight:** 1
-- **Team Members:** [Samuel Amsalu](x.com/mrnazu_) and [Tebogo Legoabe](#)
+- **Team Members:** [Samuel Amsalu](https://x.com/mrnazu_) and [Tebogo Legoabe](#)
 - **Start Date:** Feb 7, 2024 at 7:00 PM
 - **End Date:** Feb 14, 2024 at 7:00 PM
 - **Checker Release:** Feb 9, 2024 at 1:00 PM
