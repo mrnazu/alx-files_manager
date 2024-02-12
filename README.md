@@ -24,6 +24,21 @@ This project is a summary of this back-end trimester focusing on authentication,
 - View a file
 - Generate thumbnails for images
 
+### How to Run?
+
+```plaintext
++----------------------+----------------------------------------------------------+
+| Command              | Purpose                                                  |
++----------------------+----------------------------------------------------------+
+| npm run lint         | Run ESLint to check for linting errors in JavaScript files |
+| npm run check-lint   | Check ESLint errors using the lint script                |
+| npm run start-server | Start the server using nodemon with Babel                |
+| npm run start-worker | Start the worker using nodemon with Babel                |
+| npm run dev          | Start the development server using nodemon with Babel    |
+| npm test             | Run Mocha to execute tests located in the tests directory |
++----------------------+----------------------------------------------------------+
+```
+
 ### Resources
 
 Read or watch:
